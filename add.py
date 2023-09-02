@@ -1,4 +1,4 @@
 
-a=2
-b=20
-print(a*b)
+a=200
+b=45
+print(a+b)
